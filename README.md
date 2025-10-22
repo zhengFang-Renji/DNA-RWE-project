@@ -1,5 +1,5 @@
 # DNA-RWE-project
-DNA Disk: Achieving Read-Write-Erase Operations via Confined Enzymatic Control
+Spatially Addressable DNA Hard Disk Enables Dynamic Data Storage via Framework-Confined Molecular Machine
 
 # Data Encoding and Sequencing Depth Calculation for Research Project
 
